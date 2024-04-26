@@ -1,31 +1,6 @@
 # Atividade07_de_java_Faculdade_Flamingo
 
 
-Enunciado
-Bom dia Caros Alunos,
-
-
-
-Como vão?
-
-
-
-Espero que muito bem.
-
-
-
-Abaixo, segue as atividades de linguagem de programação Java Core.
-
-
-
-Bons Estudos.
-
-
-
-Professor Obama.
-
-
-
 Questões a serem respondidas:
 
 1) Ler um valor e escrever se é positivo, negativo ou zero.
